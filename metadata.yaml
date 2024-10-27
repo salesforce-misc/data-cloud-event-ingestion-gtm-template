@@ -2,5 +2,5 @@ homepage: "https://www.salesforce.com/data/"
 documentation: "https://github.com/salesforce-misc/data-cloud-event-ingestion-gtm-template"
 versions:
   # Latest version
-  - sha: <change me>
-    changeNotes: <change me>.
+  - sha: 009976e8090f6513889e4c354e07b1e2d9f4ba6a
+    changeNotes: GTM Template - Version 1.
