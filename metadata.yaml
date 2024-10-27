@@ -1,5 +1,5 @@
 homepage: "https://www.salesforce.com/data/"
-documentation: "<change me>"
+documentation: "https://github.com/salesforce-misc/data-cloud-event-ingestion-gtm-template"
 versions:
   # Latest version
   - sha: <change me>
