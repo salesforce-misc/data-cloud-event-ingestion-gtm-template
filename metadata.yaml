@@ -1,0 +1,6 @@
+homepage: "https://www.salesforce.com/data/"
+documentation: "<change me>"
+versions:
+  # Latest version
+  - sha: <change me>
+    changeNotes: <change me>.
